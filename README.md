@@ -11,13 +11,18 @@ O objetivo é demonstrar:
 - Validação com cross-validation
 
 ## Estrutura
-
+A organização segue o padrão:
 naive-bayes/
-├─ projects/
-│ └─ project-20-credit-score/
-│ ├─ src/
-│ ├─ data/
-│ └─ README.md
+├─ README.md
+├─ requirements.txt
+└─ projects/
+   └─ project-20-credit-score/
+      ├─ README.md
+      ├─ src/
+      │  └─ main.py
+      └─ data/
+         ├─ README.md
+         └─ (csvs ou instruções)
 
 ## Projetos
 
