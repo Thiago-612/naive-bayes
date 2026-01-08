@@ -12,29 +12,17 @@ O objetivo é demonstrar:
 
 ## Estrutura
 
-naive-bayes/
- README.md
- requirements.txt
- projects/
-    project-20-credit-score/
-       README.md
-       src/
-         main.py
-       data/
-         README.md
-         (csvs ou instruções)
-
-naive-bayes/
-├─ README.md
-├─ requirements.txt
-└─ projects/
-   └─ project-20-credit-score/
-      ├─ README.md
-      ├─ src/
-      │  └─ main.py
-      └─ data/
-         ├─ README.md
-         └─ (csvs ou instruções)
+-naive-bayes/
+  -README.md
+  -requirements.txt
+  -projects/
+    -project-20-credit-score/
+       -README.md
+       -src/
+         -main.py
+       -data/
+         -README.md
+         -(csvs ou instruções)
 
 ## Projetos
 
